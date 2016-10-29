@@ -3,7 +3,10 @@
 ## The App
 
 Ask an Amazon Echo (or Dot or Touch, aka Alexa) when the next meetup is and receive the date,
-title, and description. Hack away!
+title, and description.
+
+This was the result of a talk I gave for the
+[PyStPete Python Meetup](https://www.meetup.com/Saint-Petersburg-Python-Meetup/). Hack away!
 
 ## Asking Questions
 
