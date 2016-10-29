@@ -1,0 +1,8 @@
+NextMeetupIntent when is the next meetup
+NextMeetupIntent when is the next meeting
+NextMeetupIntent when is the next talk
+NextMeetupIntent when is the next event
+NextMeetupIntent when the next meetup is
+NextMeetupIntent when the next meeting is
+NextMeetupIntent when the next talk is
+NextMeetupIntent when the next event is
