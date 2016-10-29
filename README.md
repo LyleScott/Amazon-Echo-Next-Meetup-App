@@ -23,18 +23,20 @@ Where:
 
 ### Supported App Invocations
 
-* when the next meetup is
-* when the next meeting is
-* when the next talk is
-* when the next event is
-* when is the next meetup
-* when is the next meeting
-* when is the next talk
-* when is the next event
+```
+when the next meetup is
+when the next meeting is
+when the next talk is
+when the next event is
+when is the next meetup
+when is the next meeting
+when is the next talk
+when is the next event
+```
 
-### Examples Spoken Phrases
+### Examples
 
-````
+```
 Alexa, ask Py Saint Pete when the next meetup is.
 Alexa, ask Py Saint Pete when is the next meeting?
 ```

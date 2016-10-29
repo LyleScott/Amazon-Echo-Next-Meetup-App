@@ -8,9 +8,17 @@ import re
 
 # Fix up PYTHONPATH to account for libs and src directories.
 import sys
+
+# This is where I put 3rd party libs I need to install. Remember, Lambda does not let you install
+# things via pip, so you must package up all 3rd party application source with the Lambda code.
+# To install a pip package to a directory of your choosing:
+# pip install -t libs <your package>
 sys.path.insert(0, 'libs')
+
+# You may put any of your source in the following directory and use them as normal packages.
 sys.path.insert(1, 'src')
 
+# Now, we can import packages bootstrapped in the above path insertions.
 import requests
 
 # Local package imports.
