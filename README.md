@@ -13,15 +13,15 @@ This was the result of a talk I gave for the
 The supported pattern is something like:
 
 ```
-<device greeting>, ask <app invocation name> <phrase>
+<device greeting>, ask <app invocation> <phrase>
 ```
 
 Where:
 * _device greeting_ is most likely _Alexa_, but it could also be _Amazon_ or _Echo_.
-* _app invocation name_ is configured in the
+* _app invocation_ is configured in the
 [Amazon/Alexa dev portal](https://developer.amazon.com/edw/home.html#/skills/list).
 
-### Supported Phrases
+### Supported App Invocations
 
 * when the next meetup is
 * when the next meeting is
